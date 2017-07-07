@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\ashutosh dahal\documents\visual studio 2017\projects\project3\project3\MyForm.h(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+MyForm.cpp(11): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+c:\users\ashutosh dahal\documents\visual studio 2017\projects\project3\project3\myform.h(127): warning C4700: uninitialized local variable 'si' used
+c:\users\ashutosh dahal\documents\visual studio 2017\projects\project3\project3\myform.h(139): warning C4700: uninitialized local variable 'wd' used
+  Project3.vcxproj -> c:\users\ashutosh dahal\documents\visual studio 2017\Projects\Project3\Debug\Project3.exe
